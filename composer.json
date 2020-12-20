@@ -8,8 +8,8 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.0",
-        "ext-sqreen": "^1.10",
+        "php": "^7.4.13",
+        "ext-sqreen": "^1.23",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
@@ -29,8 +29,8 @@
         "preferred-install": "dist",
         "sort-packages": true,
         "platform": {
-            "php": "8.0",
-            "ext-sqreen": "1.10.0"
+            "php": "7.4.13",
+            "ext-sqreen": "1.23.0"
         }
     },
     "extra": {
